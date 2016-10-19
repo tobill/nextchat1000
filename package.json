@@ -16,14 +16,11 @@
     "morgan": "^1.7.0",
     "object.assign": "^4.0.3",
     "react": "^15.1.0",
-    "react-dom": "^15.1.0",
+    "react-dom": "15.1.0",
     "react-router-redux": "^4.0.5",
     "redux-form": "^6.1.0",
     "redux-router": "^2.1.1",
-    "redux-thunk": "^2.1.0",
-    "request": "^2.34",
-    "request-promise": "^4.1.1",
-    "webworker-threads": "^0.7.5"
+    "redux-thunk": "^2.1.0"
   },
   "devDependencies": {
     "babel-core": "^6.9.1",
